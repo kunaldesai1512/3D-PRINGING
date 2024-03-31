@@ -42,4 +42,4 @@ Aerospace and Automotive:
 Research and Development:
 Scientists and researchers utilize 3D printing to create specialized laboratory equipment, prototypes for experiments, and models for scientific visualization.
 
-Overall, 3D printing has revolutionized manufacturing and product development by providing greater design freedom, cost savings, and the ability to create previously impossible geometries. Its applications continue to expand as the technology advances and becomes more accessible.
+Overall, 3D printing has revolutionized manufacturing and product development by providing greater design freedom, cost savings, and the ability to create previously impossible geometries. Its applications continue to expand as the technology advances and becomes more accessible. !
