@@ -19,27 +19,30 @@ Depending on the technology, the material is cooled, cured, or sintered to harde
  # 5.Post-Processing:
 After printing, additional steps such as removing support structures, sanding, painting, or assembling multiple parts may be necessary to achieve the desired finish and functionality.
 
+
+
+
 the material that we use at lab PLA(polylactic acid filament ) PRO + at a temperature of 195-210 and bed temperature of about 40-50 degree C.
 Applications of 3D Printing:
 Prototyping:
 3D printing is widely used for rapid prototyping in industries like aerospace, automotive, and product design. It allows for quick and cost-effective iteration of designs.
 
- Customization:
+ # Customization:
 3D printing enables the production of highly customized products, such as personalized medical implants, dental prosthetics, and bespoke fashion items.
 
-Medical and Healthcare:
+# Medical and Healthcare:
 3D printing has applications in creating patient-specific surgical models, prosthetics, orthodontic devices, and even organs and tissues for transplantation in the field of regenerative medicine.
 
-Education:
+# Education:
 3D printing is a valuable tool for STEM education, allowing students to bring their design concepts to life and learn about engineering, design, and manufacturing processes.
 
 Architecture and Construction:
 Large-scale 3D printers can create architectural models, building components, and even entire structures, offering new possibilities in construction.
 
-Aerospace and Automotive:
+# Aerospace and Automotive:
 3D printing is used to produce lightweight and complex components for aircraft and vehicles, leading to improved fuel efficiency and performance.
 
-Research and Development:
+# Research and Development:
 Scientists and researchers utilize 3D printing to create specialized laboratory equipment, prototypes for experiments, and models for scientific visualization.
 
 Overall, 3D printing has revolutionized manufacturing and product development by providing greater design freedom, cost savings, and the ability to create previously impossible geometries. Its applications continue to expand as the technology advances and becomes more accessible. !
